@@ -212,3 +212,109 @@ git push
 git remote add ogn https://github.com/Lalithya15/devops.git
 git push -u ogn master
  git pull origin master
+mkdir lalithya
+vim index.html
+git status
+git init
+git add .
+git commit -m "chan"
+git push
+git status
+ls
+rm -r besant
+cd besant
+rm -r besant
+rm -rf besant
+cd
+ls
+rm -rf besant
+ls
+rm -rf mygit
+ls
+rm -rf lalithya
+ls
+rm file.txt
+ls
+rm index.html
+ls
+git push
+git rm besant
+git rm mygit
+git commit -m "delete"
+git push
+ls
+mkdir besant
+ls
+cd besant
+ls
+echo "hi lalithya">index.html
+cat index.html
+git status
+git add index,html
+git clone https://github.com/Lalithya15/devop.git
+git rm file.txt
+git commit -m "Delete old file yourfile.txt"
+git commit -m "add"
+git status
+git push
+git clone https://github.com/Lalithya15/devop.git
+git remote add origin https://github.com/Lalithya15/devop.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/Lalithya15/devops.git
+git push -u origin main
+git status
+git add besant/
+git pull
+git remote -v
+git remote set-url origin https://github.com/Lalithya15/devop.git
+git push -u origin main
+cd beasnt
+ld
+ls
+cd besant
+ls
+git remote add origin https://github.com/Lalithya15
+git remote add orig https://github.com/Lalithya15/devop
+git remote -v
+git push -u orig master
+git branch
+git push -u origin main
+git pull
+cd your-repo-name  # Go into the repository folder
+git fetch          # Get the latest changes from GitHub
+git log      
+git pull
+cat index.html
+git fetch
+cat index.html
+git pull origin main
+git fetch origin
+git pull
+cat index.html
+git pull origin main
+cd your-repo-name  # Go into the repository folder
+git fetch          # Get the latest changes from GitHub
+git log            # Show commit history
+cd devop
+git fetch
+cat index.html
+cd besant
+cd
+ls
+cd besant
+git pull
+cat index.html
+git diff
+cd besant
+git pull origin main
+cat index.html
+cd
+git pull
+cat index.html
+vim index.html
+cat index.html
+git status
+git add index.html
+git commit -m "terminal"
+git push
