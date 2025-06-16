@@ -318,3 +318,8 @@ git status
 git add index.html
 git commit -m "terminal"
 git push
+cd besant
+git log --oneline
+git reset 348ea3f --hard
+git log --oneline
+cat index.html
