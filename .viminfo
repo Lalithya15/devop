@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1750041279,,"wq!"
+|2,0,1750125184,,"wq!"
 :wq
 |2,0,1749519964,,"wq"
 
@@ -27,30 +27,36 @@
 # Registers:
 
 # File marks:
-'0  5  6  ~/index.html
-|4,48,5,6,1750041279,"~/index.html"
-'1  4  15  ~/index.html
-|4,49,4,15,1750040333,"~/index.html"
-'2  4  15  ~/index.html
-|4,50,4,15,1750040333,"~/index.html"
-'3  3  15  ~/besant/index.html
-|4,51,3,15,1750040122,"~/besant/index.html"
-'4  2  5  ~/besant/index.html
-|4,52,2,5,1749779800,"~/besant/index.html"
-'5  2  5  ~/besant/index.html
-|4,53,2,5,1749779800,"~/besant/index.html"
-'6  3  19  ~/index.html
-|4,54,3,19,1749716862,"~/index.html"
-'7  3  19  ~/index.html
-|4,55,3,19,1749716862,"~/index.html"
-'8  3  19  ~/index.html
-|4,56,3,19,1749716862,"~/index.html"
-'9  3  19  ~/index.html
-|4,57,3,19,1749716862,"~/index.html"
+'0  6  11  ~/index.html
+|4,48,6,11,1750125184,"~/index.html"
+'1  5  6  ~/index.html
+|4,49,5,6,1750041279,"~/index.html"
+'2  5  6  ~/index.html
+|4,50,5,6,1750041279,"~/index.html"
+'3  4  15  ~/index.html
+|4,51,4,15,1750040333,"~/index.html"
+'4  4  15  ~/index.html
+|4,52,4,15,1750040333,"~/index.html"
+'5  4  15  ~/index.html
+|4,53,4,15,1750040333,"~/index.html"
+'6  4  15  ~/index.html
+|4,54,4,15,1750040333,"~/index.html"
+'7  3  15  ~/besant/index.html
+|4,55,3,15,1750040122,"~/besant/index.html"
+'8  2  5  ~/besant/index.html
+|4,56,2,5,1749779800,"~/besant/index.html"
+'9  2  5  ~/besant/index.html
+|4,57,2,5,1749779800,"~/besant/index.html"
 
 # Jumplist (newest first):
+-'  6  11  ~/index.html
+|4,39,6,11,1750125184,"~/index.html"
+-'  5  6  ~/index.html
+|4,39,5,6,1750125163,"~/index.html"
 -'  5  6  ~/index.html
 |4,39,5,6,1750041279,"~/index.html"
+-'  4  15  ~/index.html
+|4,39,4,15,1750041262,"~/index.html"
 -'  4  15  ~/index.html
 |4,39,4,15,1750041262,"~/index.html"
 -'  4  15  ~/index.html
@@ -59,6 +65,16 @@
 |4,39,3,19,1750040312,"~/index.html"
 -'  3  19  ~/index.html
 |4,39,3,19,1750040312,"~/index.html"
+-'  3  19  ~/index.html
+|4,39,3,19,1750040312,"~/index.html"
+-'  3  15  ~/besant/index.html
+|4,39,3,15,1750040122,"~/besant/index.html"
+-'  3  15  ~/besant/index.html
+|4,39,3,15,1750040122,"~/besant/index.html"
+-'  3  15  ~/besant/index.html
+|4,39,3,15,1750040122,"~/besant/index.html"
+-'  3  15  ~/besant/index.html
+|4,39,3,15,1750040122,"~/besant/index.html"
 -'  3  15  ~/besant/index.html
 |4,39,3,15,1750040122,"~/besant/index.html"
 -'  3  15  ~/besant/index.html
@@ -76,6 +92,18 @@
 -'  2  5  ~/besant/index.html
 |4,39,2,5,1750040104,"~/besant/index.html"
 -'  2  5  ~/besant/index.html
+|4,39,2,5,1750040104,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1750040104,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1750040104,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1750040104,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1749779800,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1749779800,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
 |4,39,2,5,1749779800,"~/besant/index.html"
 -'  2  5  ~/besant/index.html
 |4,39,2,5,1749779800,"~/besant/index.html"
@@ -83,6 +111,26 @@
 |4,39,2,5,1749779800,"~/besant/index.html"
 -'  2  5  ~/besant/index.html
 |4,39,2,5,1749779800,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1749779800,"~/besant/index.html"
+-'  2  5  ~/besant/index.html
+|4,39,2,5,1749779800,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
+-'  1  0  ~/besant/index.html
+|4,39,1,0,1749779726,"~/besant/index.html"
 -'  1  0  ~/besant/index.html
 |4,39,1,0,1749779726,"~/besant/index.html"
 -'  1  0  ~/besant/index.html
@@ -120,13 +168,17 @@
 -'  2  0  ~/index.html
 |4,39,2,0,1749716832,"~/index.html"
 -'  2  0  ~/index.html
-|4,39,2,0,1749696428,"~/index.html"
+|4,39,2,0,1749716832,"~/index.html"
 -'  2  0  ~/index.html
 |4,39,2,0,1749696428,"~/index.html"
 -'  2  0  ~/index.html
 |4,39,2,0,1749696428,"~/index.html"
 -'  2  0  ~/index.html
 |4,39,2,0,1749696428,"~/index.html"
+-'  2  0  ~/index.html
+|4,39,2,0,1749696428,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1749696385,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1749696385,"~/index.html"
 -'  1  0  ~/index.html
@@ -197,70 +249,19 @@
 |4,39,7,22,1749694648,"~/besant/index.html"
 -'  6  22  ~/besant/index.html
 |4,39,6,22,1749694648,"~/besant/index.html"
--'  6  22  ~/besant/index.html
-|4,39,6,22,1749694648,"~/besant/index.html"
--'  6  22  ~/besant/index.html
-|4,39,6,22,1749694648,"~/besant/index.html"
--'  6  22  ~/besant/index.html
-|4,39,6,22,1749694648,"~/besant/index.html"
--'  4  7  ~/besant/index.html
-|4,39,4,7,1749694618,"~/besant/index.html"
--'  3  7  ~/besant/index.html
-|4,39,3,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  4  7  ~/besant/index.html
-|4,39,4,7,1749694618,"~/besant/index.html"
--'  3  7  ~/besant/index.html
-|4,39,3,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  4  7  ~/besant/index.html
-|4,39,4,7,1749694618,"~/besant/index.html"
--'  3  7  ~/besant/index.html
-|4,39,3,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  4  7  ~/besant/index.html
-|4,39,4,7,1749694618,"~/besant/index.html"
--'  3  7  ~/besant/index.html
-|4,39,3,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
--'  2  7  ~/besant/index.html
-|4,39,2,7,1749694618,"~/besant/index.html"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1750041275	0
-	"	5	6
-	^	5	7
-	.	5	6
+	*	1750125178	0
+	"	6	11
+	^	6	12
+	.	6	11
 	+	2	15
 	+	3	20
 	+	4	16
-	+	5	6
+	+	5	7
+	+	6	11
 
 > ~/besant/index.html
 	*	1750040119	0

@@ -323,3 +323,47 @@ git log --oneline
 git reset 348ea3f --hard
 git log --oneline
 cat index.html
+git branch
+cd besant
+git branch
+git branch my branch
+git branch mybranch
+git branch
+ls
+git checkout mybranch
+git log --oneline
+vim index.html
+cat index.html
+git add .
+git merge mybranch
+cat index.html
+git log --oneline
+cd 
+git merge mybranch
+cat index.html
+vim index.html
+cat index.html
+git commit -m "co"
+git merge mybranch
+git commit -a "branch"
+git add .
+cat index.html
+ls
+git log --oneline
+git commit
+git add index.html
+git push -u origin mybranch
+git merge mybranch
+git log --oneline
+git pull
+git remote -v
+git push
+git checkout main
+git branch
+git merge mybranch
+git checkout mybranch
+vim index.html
+git commit -am "it"
+git remote -v
+git push -u origin mybranch
+git log --oneline
